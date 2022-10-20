@@ -1,1 +1,1 @@
-web: gunicorn rate-star.wsgi
+web: gunicorn rate_star.wsgi
